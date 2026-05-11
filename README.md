@@ -1,5 +1,5 @@
-## Olá 👋
+## Salve! / Hello!  👋
 
 # Sobre mim
-Eu sou Filipe Roberto, iniciante no mundo da programação. Irei **bravamente** lutar para aprender e entrar no mercado de trabalho!
+Between logic and imagination, I write. I build. I observe. Moreover, you can call me Filipe (EN - Philip or Phil) (Tio Phil) or Robert (Roberto) or Lipedios.
 
